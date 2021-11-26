@@ -6,3 +6,4 @@
   * Minimum Lights to activate: https://medium.com/@mqwsdw/minimum-lights-to-activate-interviewbit-d98b0f6d40f7
   * Maximum Sum Triplets: https://medium.com/@mqwsdw/maximum-sum-triplet-interviewbit-arrays-problem-350009463a47
   * Max Sum Contagious SubArray: https://medium.com/@mqwsdw/max-sum-contagious-subarray-interviewbit-arrays-problem-c5288c9043f6
+  * Add One To Number: https://medium.com/@mqwsdw/add-one-to-number-interviewbit-arrays-problem-d0bbd9200f36

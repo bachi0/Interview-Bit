@@ -7,4 +7,4 @@
   * Maximum Sum Triplets: https://medium.com/@mqwsdw/maximum-sum-triplet-interviewbit-arrays-problem-350009463a47
   * Max Sum Contagious SubArray: https://medium.com/@mqwsdw/max-sum-contagious-subarray-interviewbit-arrays-problem-c5288c9043f6
   * Add One To Number: https://medium.com/@mqwsdw/add-one-to-number-interviewbit-arrays-problem-d0bbd9200f36
-  * Maximum Absolute Difference: https://medium.com/@udayakiran.ns/maximum-absolute-difference-interviewbit-arrays-1c201b8af39b
+  * Maximum Absolute Difference: https://medium.com/@mqwsdw/maximum-absolute-difference-interviewbit-arrays-8d48f7001725
